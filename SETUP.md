@@ -10,7 +10,7 @@ If you don't have Node.js installed:
 
 ```bash
 # Navigate to project folder
-cd snyder-ldc-frontend
+cd snyder-ldc-ui
 
 # Install all dependencies
 npm install
