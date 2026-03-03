@@ -35,3 +35,6 @@ coverage/
 # Misc
 .cache/
 temp/
+
+# Ignore Vite config file
+vite.config.js
